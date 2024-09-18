@@ -2,7 +2,7 @@ import './AboutMe.css';
 
 const AboutMe = () => {
     return (
-        <div id="about" className="bg-gray-900 min-h-screen py-16">
+        <div id="about-me" className="bg-gray-900 min-h-screen py-16">
             <section className="max-w-screen-xl mx-auto px-6">
                 <div className="flex flex-col lg:flex-row items-center lg:space-x-12">
                     {/* About Me Content */}
