@@ -5,7 +5,7 @@ import { useState } from 'react';
 const Hero = () => {
     const [menuOpen, setMenuOpen] = useState(false);
     const navigation = [
-        { title: "About Me", path: "#about" },
+        { title: "About Me", path: "#about-me" },
         { title: "Projects", path: "#projects" },
         { title: "Contact", path: "#contact" },
     ];
